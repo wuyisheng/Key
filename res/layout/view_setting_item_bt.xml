@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view_setting_bt"
+    android:layout_width="56dp"
+    android:layout_height="32dp"
+    android:background="@drawable/btn_bg_view_setting_item"
+    android:textColor="#666"
+	/>

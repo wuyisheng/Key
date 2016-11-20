@@ -1,0 +1,72 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_root"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="${relativePackage}.${activityClass}" 
+    >
+
+    <TextView
+        android:id="@+id/main_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" 
+        android:textSize="16sp"
+        android:textColor="#666"
+        android:layout_marginBottom="28dp"
+        />
+    
+    <EditText 
+        android:id="@+id/main_traget"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="@string/target_soft"
+        android:background="@drawable/edit_bg_circular"
+        android:textColorHint="#999"
+        android:textSize="14sp"
+        android:textColor="#333"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        />
+    
+    <EditText 
+        android:id="@+id/main_target_extra"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="@string/prams_2"
+        android:background="@drawable/edit_bg_circular"
+        android:textColorHint="#999"
+        android:visibility="visible"
+        android:textSize="14sp"
+        android:textColor="#333"
+        android:layout_marginTop="12dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        />
+    
+    <Button 
+        android:id="@+id/main_gen"
+        android:text="@string/gen"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:minWidth="80dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#DB7D6D"
+        android:background="@drawable/color_btn_1"
+        />
+    
+    <TextView 
+        android:id="@+id/main_output"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#666"
+        android:gravity="center_horizontal"
+        />
+    
+</LinearLayout>

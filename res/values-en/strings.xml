@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Not forget</string>
+    <string name="hello_world">Remember password is cumbersome, unify a password is dangerous. Randomly generate passwords, I will not forget.</string>
+	<string name="target_soft">Parameters1(eg:facebook)</string>
+	<string name="prams_2">Parameters2(options,eg:u@email.com)</string>
+	<string name="account">Account</string>
+    <string name="gen">Generate</string>
+	<string name="password">Password</string>
+    <string name="error">Error</string>
+    <string name="contact_developer">Contact developer ? (Email: wuyisheng@foxmail.com) </string>
+    <string name="welcome">Welcome</string>
+    <string name="why_unique_key">Remember password is cumbersome, unify a password is dangerous. \nOur solution was to keep a private key. According to the Web-site-name/account-name to generate unique passwords.</string>
+    <string name="unique_key">Your private key</string>
+    <string name="sure">OK</string>
+    <string name="setting">Setting</string>
+    <string name="default_option">Default</string>
+    <string name="bank">Bank</string>
+    <string name="creat_custom">Creat</string>
+    <string name="custom">Custom</string>
+    <string name="more">More</string>
+    <string name="about_us">About</string>
+    
+    <string name="title">Title of option</string>
+    <string name="pass_len">Password length</string>
+    <string name="pass_contain">Password composition</string>
+    <string name="level">Level</string>
+    <string name="lucky_num">Lucky num</string>
+    <string name="simple">simple</string>
+    <string name="normal">normal</string>
+    <string name="invaild_setting">Invaild setting , ignore it</string>
+    <string name="selected_long_press_to_edit">Selected.Long press to edit</string>
+    <string name="empty_input">Empty input</string>
+    <string name="init_error">init error</string>
+    
+</resources>

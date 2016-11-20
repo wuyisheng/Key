@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical" >
+    
+	<TextView
+	    android:id="@+id/setting_welcome_title"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/welcome"
+	    android:textColor="#333"
+	    android:textSize="22sp"
+	    android:layout_gravity="center_horizontal"
+	    android:layout_marginTop="20dp"
+	    android:layout_marginBottom="12dp"
+    	/>
+	
+	<TextView
+	    android:id="@+id/setting_welcome_content"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:textColor="#999"
+	    android:text="@string/why_unique_key"
+	    android:layout_marginBottom="40dp"  
+	    />
+	
+	<LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:minHeight="60dp"
+	    android:orientation="horizontal"
+	    android:gravity="center_horizontal"
+	    >
+	    <EditText
+		    android:id="@+id/setting_welcome_edit"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/edit_bg_undline"
+		    android:layout_gravity="center"
+		    android:hint="@string/unique_key"
+		    android:minHeight="42dp"
+		    android:minWidth="180dp"
+		    />
+	    <Button
+	        android:id="@+id/setting_welcome_sure"
+	        android:layout_width="wrap_content"
+	        android:layout_gravity="center"
+	        android:layout_height="48dp"
+	        android:text="@string/sure"
+	        />
+	</LinearLayout>
+
+</LinearLayout>

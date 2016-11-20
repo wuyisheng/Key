@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">不忘</string>
+    <string name="hello_world">记密码很麻烦，统一一个密码又很危险。\n随手生成密码，我就不忘了。</string>
+	<string name="target_soft">参数一（例如网站名）</string>
+	<string name="prams_2">参数二（可选，不填也可以，例如账号）</string>
+	<string name="account">账号</string>
+    <string name="gen">生成</string>
+	<string name="password">密码</string>
+    <string name="error">错误</string>
+    <string name="contact_developer">联系开发者？（邮件：wuyisheng@foxmail.com）</string>
+    <string name="welcome">终于等到你</string>
+    <string name="why_unique_key">记密码很麻烦，统一一个密码又很危险。\n解决办法是在应用中存一个私人的密钥，需要的密码的网站名作为第二个输入，生成一个唯一的密码。</string>
+    <string name="unique_key">唯一私人密玥</string>
+    <string name="sure">好了</string>
+    <string name="setting">设置</string>
+    <string name="default_option">默认</string>
+    <string name="bank">银行类</string>
+    <string name="creat_custom">新建自定义</string>
+    <string name="custom">自定义</string>
+    <string name="more">更多</string>
+    <string name="about_us">关于</string>
+    
+    <string name="title">配置名称</string>
+    <string name="pass_len">密码长度</string>
+    <string name="pass_contain">密码组成</string>
+    <string name="level">级别</string>
+    <string name="lucky_num">幸运数字</string>
+    <string name="simple">简单</string>
+    <string name="normal">普通</string>
+    <string name="invaild_setting">无效设置，不保存</string>
+    <string name="selected_long_press_to_edit">已选，长按编辑</string>
+    <string name="empty_input">输入为空</string>
+    <string name="init_error">初始化错误</string>
+    
+</resources>
