@@ -1,0 +1,4 @@
+.gradle/4.4/
+.gradle/buildOutputCleanup/
+.idea/caches/
+app/build/

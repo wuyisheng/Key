@@ -3,39 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="W:\YeshenWorkspace\Key\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="W:\YeshenWorkspace\Key\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_5dd41db9eece0f91d620e94cba46993117756a5e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="W:\YeshenWorkspace\Key\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5bf22920f24af50b7f765d3e77f3bd77a7521dee">
-        <dex dex="W:\YeshenWorkspace\Key\app\build\intermediates\pre-dexed\debug\instant-run_65f1f69617f8a15599e3e8886c33cde8775c997b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="W:\YeshenWorkspace\Key\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4b4a58067e8552ff083e54b5e0150cb3d887fc6a">
-        <dex dex="W:\YeshenWorkspace\Key\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5f5ade3575603837b8456bac2c95ebaf3e4dddf9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="W:\YeshenWorkspace\Key\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
+        jar="/Users/yeshen/Documents/yeshen/Key/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="W:\YeshenWorkspace\Key\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_bfbfd429c77c4b6c555a2d5cb9a9c68f906dd1fd.jar" />
+        <dex dex="/Users/yeshen/Documents/yeshen/Key/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_50db6a469c5cfb5bbce2febaec1a81d6c30dff86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yeshen/Documents/yeshen/Key/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/yeshen/Documents/yeshen/Key/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_a1e57b5d926d49b1ac6343c772b8ebae4492944b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yeshen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/yeshen/Documents/yeshen/Key/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_befb1ae9cc4acb3e7639caca6d63a416031022ac.jar" />
     </item>
 
 </items>
